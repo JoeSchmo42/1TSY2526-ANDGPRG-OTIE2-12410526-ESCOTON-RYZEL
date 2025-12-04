@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: c050bec7d21ed0c4695f2d6cf802df92
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - groundMonster: {fileID: 1216393838745050669, guid: bc3e18f124b084b4eab19676e9fbcf73, type: 3}
+  - flyingMonster: {fileID: 7046336532471708100, guid: 11720f895f3e805469639e4803499b5a, type: 3}
+  - bossMonster: {fileID: 3663869273464586141, guid: d8619e0f2a400d34d97ea2a3004df29f, type: 3}
+  - spawnPoint: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
